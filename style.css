@@ -1,0 +1,22 @@
+body {
+    /*border: dashed black; */
+    width: 1000px;
+    margin: auto; 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    text-align: center;
+}
+
+body {
+    background-color: darkolivegreen; 
+    color: azure;
+    text-align: 
+    float:left; 
+}
+
+footer {
+    clear: both;
+    background-color: lightgrey;
+}
